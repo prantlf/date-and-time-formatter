@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    "coverage": true,
+    "node_modules": true,
+    "**/*.map": true,
+    "**/*.min.*": true
+  },
+  "search.exclude": {
+    "**/lib/*.cjs": true,
+    "**/lib/*.json": true,
+    "**/perf/size/*.bundle.*": true,
+    "**/test/*.json": true,
+    "**/test/types.test.js": true
+  }
+}

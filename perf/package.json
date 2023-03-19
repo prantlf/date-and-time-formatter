@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "speed": "node speed",
+    "size": "rollup -c size/rollup.config.js && minified-size size/*.bundle.js"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "15.0.1",
+    "benchmark": "2.1.4",
+    "date-and-time": "2.4.3",
+    "date-fns": "2.29.3",
+    "luxon": "3.3.0"
+  }
+}
