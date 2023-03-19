@@ -1,4 +1,4 @@
-# DateTime Locale Patterns
+# DateTime Formatter
 
 [![Latest version](https://img.shields.io/npm/v/date-and-time-formatter)
  ![Dependency status](https://img.shields.io/librariesio/release/npm/date-and-time-formatter)
