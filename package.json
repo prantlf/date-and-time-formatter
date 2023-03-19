@@ -87,14 +87,13 @@
     "typescript": "5.0.2"
   },
   "keywords": [
-    "intl",
     "date",
     "time",
     "datetime",
+    "date-time",
     "locale",
     "pattern",
     "format",
-    "cldr",
     "unicode",
     "ldml"
   ]
