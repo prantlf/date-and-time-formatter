@@ -22,7 +22,7 @@ const result = formatDateTime(new Date(), 'd.M.yy') // 3.2.01
 * No other dependencies.
 * Output translated to the requested locale by [`Intl.DateTimeFormat`].
 * Custom translations of the textual date/time parts possible.
-* Tiny code base - 8.94 kB minified, 2.33 kB gzipped, 2.12 kB brotlied.
+* Tiny code base - 7.21 kB minified, 2.23 kB gzipped, 2.01 kB brotlied.
 * [Extremely fast](perf/README.md).
 
 Related projects:
