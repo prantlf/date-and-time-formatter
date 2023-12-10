@@ -73,18 +73,18 @@
     ]
   },
   "devDependencies": {
-    "@rollup/plugin-json": "6.0.0",
-    "@semantic-release/changelog": "^6.0.2",
+    "@rollup/plugin-json": "6.0.1",
+    "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
-    "c8": "7.13.0",
-    "denolint": "2.0.7",
-    "rollup": "3.19.1",
+    "c8": "8.0.1",
+    "denolint": "2.0.14",
+    "rollup": "4.7.0",
     "rollup-plugin-cleanup": "3.2.1",
-    "rollup-plugin-swc-minify": "1.0.5",
+    "rollup-plugin-swc-minify": "1.1.0",
     "tehanu": "1.0.1",
     "tehanu-repo-coco": "1.0.0",
     "tehanu-teru": "1.0.0",
-    "typescript": "5.0.2"
+    "typescript": "5.3.3"
   },
   "keywords": [
     "date",
