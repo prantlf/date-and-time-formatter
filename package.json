@@ -1,6 +1,6 @@
 {
   "name": "date-and-time-formatter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Formats a date/time value to a localised string using a pattern consisting of Unicode LDML tokens.",
   "author": {
     "name": "Ferdinand Prantl",
